@@ -54,7 +54,7 @@ This project transforms raw Netflix dataset into meaningful insights using Power
 
 ## 👩‍🎓 Author
 
-**Savleen Kaur**
+**Varchasvee Yaduvanshee**
 Lovely Professional University (LPU)
 School of Computer Science Engineering
 
